@@ -1,0 +1,12 @@
+<GuiXml>
+  <Controls>
+    <TopLevelControl name="LibGamepadCursor_TopLevel" mouseEnabled="false" tier="HIGH">
+	<Dimensions x="64" y="64" />
+      <Controls>
+        <Texture name="$(parent)GamepadCursor"  tier="HIGH" fillMode="STRETCH" textureFile="EsoUI/Art/Tribute/gamepad/gp_tribute_reticle.dds">
+		<Dimensions x="64" y="64" />
+        </Texture>
+      </Controls>
+    </TopLevelControl>
+  </Controls>
+</GuiXml>
