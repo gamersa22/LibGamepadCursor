@@ -9,4 +9,4 @@ yourCursor = LibGamepadCursor:New(LibGamepadCursor_TopLevelGamepadCursor)
 yourCursor:SetActive(true)
 ```
 ## Know issues
- - If you move cursor to fast you move and the HUD regains focus
+ - If you move the cursor too fast, your character will move and the HUD regains focus
