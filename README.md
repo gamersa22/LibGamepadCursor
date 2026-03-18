@@ -9,4 +9,5 @@ yourCursor = LibGamepadCursor:New(LibGamepadCursor_TopLevelGamepadCursor)
 yourCursor:SetActive(true)
 ```
 ## Know issues
- - If you move the cursor too fast, your character will move and the HUD regains focus
+ - If you move the cursor too fast, your character will move and the HUD regains focus still happens but with other ui
+ - when interacting with a addons window, will error, assumed to be due to KEYBIND_STRIP beinh weird
